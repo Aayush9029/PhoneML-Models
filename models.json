@@ -2,7 +2,7 @@
     {
         "author": "Google",
         "name": "RegNet",
-        "description": "Imagenet (ILSVRC-2012-CLS) classification with RegNetX-400MF.",
+        "description": "RegNet: Self-Regulated Network for Image Classification",
         "license": "MIT",
         "tags": [
             "image",
