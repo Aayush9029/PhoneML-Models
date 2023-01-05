@@ -1,0 +1,153 @@
+[
+    {
+        "author": "Google",
+        "name": "RegNet",
+        "description": "Imagenet (ILSVRC-2012-CLS) classification with RegNetX-400MF.",
+        "license": "MIT",
+        "tags": [
+            "image",
+            "classification",
+            "mnist",
+            "digit",
+            "handwritten"
+        ],
+        "source": "https://pytorch.org/vision/stable/models.html#torchvision-models",
+        "downloads": [
+            {
+                "name": "regnetx_400mf.mlmodel",
+                "url": "https://github.com/Aayush9029/PhoneML-Store/releases/download/v1.0/regnet_y_400mf.mlmodel",
+                "size": "16.5MB"
+            }
+        ]
+    },
+    {
+        "author": "Google",
+        "name": "Efficientnetv2",
+        "description": "Imagenet (ILSVRC-2012-CLS) classification with EfficientNet-B0.",
+        "license": "MIT",
+        "tags": [
+            "image",
+            "classification",
+            "mnist",
+            "digit",
+            "handwritten"
+        ],
+        "source": "https://github.com/google/automl/tree/master/efficientnetv2",
+        "downloads": [
+            {
+                "name": "efficientnet.mlmodel",
+                "url": "https://github.com/Aayush9029/PhoneML-Store/releases/download/v1.0/efficientnet.mlmodel",
+                "size": "21.6MB"
+            },
+            {
+                "name": "efficientnetv2s.mlmodel",
+                "url": "https://github.com/Aayush9029/PhoneML-Store/releases/download/v1.0/efficientnetv2s.mlmodel",
+                "size": "81.8MB"
+            }
+        ]
+    },
+    {
+        "author": "Apple",
+        "name": "MINST",
+        "description": "Classify a single handwritten digit (supports digits 0-9).",
+        "license": "MIT",
+        "tags": [
+            "image",
+            "classification",
+            "mnist",
+            "digit",
+            "handwritten"
+        ],
+        "source": "https://developer.apple.com/machine-learning/models/",
+        "downloads": [
+            {
+                "name": "MNISTClassifier.mlmodel",
+                "url": "https://github.com/Aayush9029/PhoneML-Store/releases/download/v1.0/MNISTClassifier.mlmodel",
+                "size": "395KB"
+            }
+        ]
+    },
+    {
+        "author": "Apple",
+        "name": "MobileNetV2",
+        "description": "The MobileNetv2 architecture trained to classify the dominant object in a camera frame or image.",
+        "license": "MIT",
+        "tags": [
+            "image",
+            "classification",
+            "mobilenet",
+            "mobilenetv2"
+        ],
+        "source": "https://developer.apple.com/machine-learning/models/",
+        "downloads": [
+            {
+                "name": "MobileNetV2Int8LUT.mlmodel",
+                "url": "https://github.com/Aayush9029/PhoneML-Store/releases/download/v1.0/MobileNetV2Int8LUT.mlmodel",
+                "size": "6.3MB"
+            },
+            {
+                "name": "MobileNetV2FP16.mlmodel",
+                "url": "https://github.com/Aayush9029/PhoneML-Store/releases/download/v1.0/MobileNetV2FP16.mlmodel",
+                "size": "12.4MB"
+            },
+            {
+                "name": "MobileNetV2.mlmodel",
+                "url": "https://github.com/Aayush9029/PhoneML-Store/releases/download/v1.0/MobileNetV2.mlmodel",
+                "size": "24.7MB"
+            }
+        ]
+    },
+    {
+        "author": "Apple",
+        "name": "Resnet50",
+        "description": "A Residual Neural Network that will classify the dominant object in a camera frame or image.",
+        "license": "MIT",
+        "tags": [
+            "image",
+            "classification",
+            "resnet"
+        ],
+        "source": "https://developer.apple.com/machine-learning/models/",
+        "downloads": [
+            {
+                "name": "Resnet50Int8LUT.mlmodel",
+                "url": "https://github.com/Aayush9029/PhoneML-Store/releases/download/v1.0/Resnet50Int8LUT.mlmodel",
+                "size": "24.5MB"
+            },
+            {
+                "name": "Resnet50.mlmodel",
+                "url": "https://github.com/Aayush9029/PhoneML-Store/releases/download/v1.0/Resnet50.mlmodel",
+                "size": "102.6MB"
+            }
+        ]
+    },
+    {
+        "author": "Apple",
+        "name": "SqueezeNet",
+        "description": "A small Deep Neural Network architecture that classifies the dominant object in a camera frame or image.",
+        "license": "MIT",
+        "tags": [
+            "image",
+            "classification",
+            "squeezenet"
+        ],
+        "source": "https://developer.apple.com/machine-learning/models/",
+        "downloads": [
+            {
+                "name": "SqueezeNetInt8LUT.mlmodel",
+                "url": "https://github.com/Aayush9029/PhoneML-Store/releases/download/v1.0/SqueezeNetInt8LUT.mlmodel",
+                "size": "1.26MB"
+            },
+            {
+                "name": "SqueezeNetFP16.mlmodel",
+                "url": "https://github.com/Aayush9029/PhoneML-Store/releases/download/v1.0/SqueezeNetFP16.mlmodel",
+                "size": "2.38MB"
+            },
+            {
+                "name": "SqueezeNet.mlmodel",
+                "url": "https://github.com/Aayush9029/PhoneML-Store/releases/download/v1.0/SqueezeNet.mlmodel",
+                "size": "5MB"
+            }
+        ]
+    }
+]
